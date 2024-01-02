@@ -1,6 +1,8 @@
-<a href="http://www.intarmour.com" title="Magento Extension"><img src="https://intarmour.com/wp-content/uploads/2023/03/logo-white-intarmour.png" width="100" align="right" alt="Magento2 plugins" /></a>
+<a href="http://www.intarmour.com" title="Magento Extension"><img src="https://intarmour.com/wp-content/uploads/2023/12/intarmour-logo-white.png" width="100" align="right" alt="Magento2 plugins" /></a>
 
 # Show price for out-of-stock products / Adobe Commerce and Magento
+[![Latest Stable Version](https://poser.okvpn.org/intarmour/module-show-out-of-stock-price/v/stable)](https://packagist.org/packages/intarmour/module-show-out-of-stock-price)
+[![Total Downloads](https://poser.okvpn.org/intarmour/module-show-out-of-stock-price/downloads)](https://packagist.org/packages/intarmour/module-show-out-of-stock-price)
 
 This Magento2 Module adds prices to out of stock products. Also you can show swatches and add to cart button on category and searchresult pages. Both can be configured individually.
 If you have no swatches configured (for example by using Dropdown instead), the Dropdown wont show up. But the Add to cart button still works
